@@ -16,15 +16,6 @@ body {
     font-weight: bold;
 }
 
-.one {
-    background-color: #1F2937;
-    color: #F9Faf8;
-    height: 216px;
-    display: flex;
-    align-items: center;
-    padding: 0 72px;
-}
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -38,6 +29,26 @@ ul {
 a {
     color: white;
     text-decoration: none;
+}
+
+.one {
+    background-color: #1F2937;
+    color: #F9Faf8;
+    height: 216px;
+    display: flex;
+    align-items: center;
+    padding: 0 72px;
+}
+
+.heading {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.body {
+    font-size: 18px;
+    font-weight: 300;
+    color: #E5e7eb;
 }
 
 .two {
